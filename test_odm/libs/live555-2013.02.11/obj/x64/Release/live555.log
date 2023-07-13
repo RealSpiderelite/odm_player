@@ -1,0 +1,378 @@
+﻿  BasicHashTable.cpp
+  BasicTaskScheduler.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\BasicUsageEnvironment\BasicTaskScheduler.cpp(92,26): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+  BasicTaskScheduler0.cpp
+  BasicUsageEnvironment.cpp
+  BasicUsageEnvironment0.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\BasicUsageEnvironment\BasicUsageEnvironment0.cpp(74,35): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  DelayQueue.cpp
+  GroupEId.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\groupsock\GroupEId.cpp(65,53): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Groupsock.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\groupsock\Groupsock.cpp(262,22): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\groupsock\Groupsock.cpp(262,22): warning C4313: 'fprintf': '%d' in format string conflicts with argument 1 of type 'char *'
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\groupsock\Groupsock.cpp(262,22): warning C4473: 'fprintf' : not enough arguments passed for format string
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\groupsock\Groupsock.cpp(262,22): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\groupsock\Groupsock.cpp(262,22): message : the missing variadic argument 2 is required by format string '%s'
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\groupsock\Groupsock.cpp(488,66): warning C4312: 'type cast': conversion from 'long' to 'char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\groupsock\Groupsock.cpp(490,38): warning C4312: 'type cast': conversion from 'long' to 'char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\groupsock\Groupsock.cpp(518,43): warning C4312: 'type cast': conversion from 'long' to 'char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\groupsock\Groupsock.cpp(529,35): warning C4312: 'type cast': conversion from 'long' to 'char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\groupsock\Groupsock.cpp(542,57): warning C4312: 'type cast': conversion from 'long' to 'char *' of greater size
+  GroupsockHelper.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\groupsock\GroupsockHelper.cpp(83,16): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\groupsock\GroupsockHelper.cpp(736,22): warning C4244: '=': conversion from 'time_t' to 'long', possible loss of data
+  IOHandlers.cpp
+  NetAddress.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\groupsock\NetAddress.cpp(108,10): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  NetInterface.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\groupsock\NetInterface.cpp(131,62): warning C4312: 'type cast': conversion from 'long' to 'char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\groupsock\NetInterface.cpp(136,44): warning C4312: 'type cast': conversion from 'long' to 'char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\groupsock\NetInterface.cpp(148,60): warning C4312: 'type cast': conversion from 'long' to 'char *' of greater size
+  AACAudioMatroskaFileServerMediaSubsession.cpp
+  AC3AudioFileServerMediaSubsession.cpp
+  AC3AudioMatroskaFileServerMediaSubsession.cpp
+  AC3AudioRTPSink.cpp
+  AC3AudioRTPSource.cpp
+  AC3AudioStreamFramer.cpp
+  ADTSAudioFileServerMediaSubsession.cpp
+  ADTSAudioFileSource.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\ADTSAudioFileSource.cpp(150,57): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Compiling...
+  AMRAudioFileServerMediaSubsession.cpp
+  AMRAudioFileSink.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\AMRAudioFileSink.cpp(79,49): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  AMRAudioFileSource.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\AMRAudioFileSource.cpp(156,47): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  AMRAudioRTPSink.cpp
+  AMRAudioRTPSource.cpp
+  AMRAudioSource.cpp
+  AudioInputDevice.cpp
+  AudioRTPSink.cpp
+  AVIFileSink.cpp
+  Base64.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\Base64.cpp(50,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\Base64.cpp(50,34): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  BasicUDPSink.cpp
+  BasicUDPSource.cpp
+  BitVector.cpp
+  ByteStreamFileSource.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\ByteStreamFileSource.cpp(135,45): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  ByteStreamMemoryBufferSource.cpp
+  ByteStreamMultiFileSource.cpp
+  DarwinInjector.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\DarwinInjector.cpp(100,58): warning C4267: '+=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\DarwinInjector.cpp(132,112): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\DarwinInjector.cpp(175,27): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\DarwinInjector.cpp(309,58): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\DarwinInjector.cpp(319,47): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\DarwinInjector.cpp(322,47): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\DarwinInjector.cpp(333,27): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  DeviceSource.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\DeviceSource.cpp(125,54): warning C4312: 'type cast': conversion from 'unsigned int' to 'u_int8_t *' of greater size
+  DigestAuthentication.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\DigestAuthentication.cpp(103,49): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\DigestAuthentication.cpp(103,49): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\DigestAuthentication.cpp(110,60): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\DigestAuthentication.cpp(110,60): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\DigestAuthentication.cpp(117,40): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\DigestAuthentication.cpp(117,40): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+  DVVideoFileServerMediaSubsession.cpp
+  Compiling...
+  DVVideoRTPSink.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\DVVideoRTPSink.cpp(89,26): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  DVVideoRTPSource.cpp
+  DVVideoStreamFramer.cpp
+  EBMLNumber.cpp
+  FileServerMediaSubsession.cpp
+  FileSink.cpp
+  FramedFileSource.cpp
+  FramedFilter.cpp
+  FramedSource.cpp
+  GSMAudioRTPSink.cpp
+  H261VideoRTPSource.cpp
+  H263plusVideoFileServerMediaSubsession.cpp
+  H263plusVideoRTPSink.cpp
+  H263plusVideoRTPSource.cpp
+  H263plusVideoStreamFramer.cpp
+  H263plusVideoStreamParser.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\H263plusVideoStreamParser.cpp(200,23): warning C4477: 'fprintf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 2 has type '__int64'
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\H263plusVideoStreamParser.cpp(200,23): message : consider using '%llu' in the format string
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\H263plusVideoStreamParser.cpp(200,23): message : consider using '%Iu' in the format string
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\H263plusVideoStreamParser.cpp(200,23): message : consider using '%I64u' in the format string
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\H263plusVideoStreamParser.cpp(210,9): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  H264VideoFileServerMediaSubsession.cpp
+  H264VideoFileSink.cpp
+  H264VideoMatroskaFileServerMediaSubsession.cpp
+  H264VideoRTPSink.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\H264VideoRTPSink.cpp(180,46): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Compiling...
+  H264VideoRTPSource.cpp
+  H264VideoStreamDiscreteFramer.cpp
+  H264VideoStreamFramer.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(114,40): warning C4244: 'return': conversion from '__int64' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\H264VideoStreamFramer.cpp(142,42): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\H264VideoStreamFramer.cpp(142,36): warning C4244: 'initializing': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\H264VideoStreamFramer.cpp(520,27): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\H264VideoStreamFramer.cpp(659,89): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\H264VideoStreamFramer.cpp(681,89): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+  InputFile.cpp
+  JPEGVideoRTPSink.cpp
+  JPEGVideoRTPSource.cpp
+  JPEGVideoSource.cpp
+  Locale.cpp
+  MatroskaDemuxedTrack.cpp
+  MatroskaFile.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MatroskaFile.cpp(232,104): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MatroskaFile.cpp(233,86): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MatroskaFile.cpp(238,65): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MatroskaFile.cpp(301,52): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MatroskaFile.cpp(306,85): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MatroskaFile.cpp(310,55): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+  MatroskaFileParser.cpp
+  MatroskaFileServerDemux.cpp
+  Media.cpp
+  MediaSession.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MediaSession.cpp(719,75): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MediaSession.cpp(741,75): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+  MediaSink.cpp
+  MediaSource.cpp
+  MP3ADU.cpp
+  MP3ADUdescriptor.cpp
+  MP3ADUinterleaving.cpp
+  MP3ADURTPSink.cpp
+  Compiling...
+  MP3ADURTPSource.cpp
+  MP3ADUTranscoder.cpp
+  MP3AudioFileServerMediaSubsession.cpp
+  MP3AudioMatroskaFileServerMediaSubsession.cpp
+  MP3FileSource.cpp
+  MP3Internals.cpp
+  MP3InternalsHuffman.cpp
+  MP3InternalsHuffmanTable.cpp
+  MP3StreamState.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MP3StreamState.cpp(206,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MP3StreamState.cpp(411,41): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MP3StreamState.cpp(409,42): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fileno. See online help for details.
+  MP3Transcoder.cpp
+  MPEG1or2AudioRTPSink.cpp
+  MPEG1or2AudioRTPSource.cpp
+  MPEG1or2AudioStreamFramer.cpp
+  MPEG1or2Demux.cpp
+  MPEG1or2DemuxedElementaryStream.cpp
+  MPEG1or2DemuxedServerMediaSubsession.cpp
+  MPEG1or2FileServerDemux.cpp
+  MPEG1or2VideoFileServerMediaSubsession.cpp
+  MPEG1or2VideoRTPSink.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MPEG1or2VideoRTPSink.cpp(124,28): warning C4312: 'type cast': conversion from 'unsigned int' to 'void *' of greater size
+  MPEG1or2VideoRTPSource.cpp
+  Compiling...
+  MPEG1or2VideoStreamDiscreteFramer.cpp
+  MPEG1or2VideoStreamFramer.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(114,40): warning C4244: 'return': conversion from '__int64' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MPEG1or2VideoStreamFramer.cpp(205,26): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MPEG1or2VideoStreamFramer.cpp(463,29): warning C4312: 'type cast': conversion from 'unsigned int' to 'void *' of greater size
+  MPEG2IndexFromTransportStream.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MPEG2IndexFromTransportStream.cpp(576,32): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MPEG2IndexFromTransportStream.cpp(581,28): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+  MPEG2TransportFileServerMediaSubsession.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MPEG2TransportFileServerMediaSubsession.cpp(185,64): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MPEG2TransportFileServerMediaSubsession.cpp(219,94): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+  MPEG2TransportStreamFramer.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamFramer.cpp(233,73): warning C4312: 'type cast': conversion from 'unsigned int' to 'char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamFramer.cpp(238,36): warning C4312: 'type cast': conversion from 'unsigned int' to 'char *' of greater size
+  MPEG2TransportStreamFromESSource.cpp
+  MPEG2TransportStreamFromPESSource.cpp
+  MPEG2TransportStreamIndexFile.cpp
+  MPEG2TransportStreamMultiplexor.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamMultiplexor.cpp(256,49): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamMultiplexor.cpp(302,27): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamMultiplexor.cpp(306,49): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+  MPEG2TransportStreamTrickModeFilter.cpp
+  MPEG2TransportUDPServerMediaSubsession.cpp
+  MPEG4ESVideoRTPSink.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MPEG4ESVideoRTPSink.cpp(128,28): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  MPEG4ESVideoRTPSource.cpp
+  MPEG4GenericRTPSink.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MPEG4GenericRTPSink.cpp(63,28): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  MPEG4GenericRTPSource.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MPEG4GenericRTPSource.cpp(88,65): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  MPEG4LATMAudioRTPSink.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MPEG4LATMAudioRTPSink.cpp(40,37): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  MPEG4LATMAudioRTPSource.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MPEG4LATMAudioRTPSource.cpp(202,51): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MPEG4LATMAudioRTPSource.cpp(247,41): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  MPEG4VideoFileServerMediaSubsession.cpp
+  MPEG4VideoStreamDiscreteFramer.cpp
+  MPEG4VideoStreamFramer.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(114,40): warning C4244: 'return': conversion from '__int64' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MPEG4VideoStreamFramer.cpp(655,30): warning C4312: 'type cast': conversion from 'u_int32_t' to 'void *' of greater size
+  Compiling...
+  MPEGVideoStreamFramer.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(114,40): warning C4244: 'return': conversion from '__int64' to 'unsigned int', possible loss of data
+  MPEGVideoStreamParser.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(114,40): warning C4244: 'return': conversion from '__int64' to 'unsigned int', possible loss of data
+  MultiFramedRTPSink.cpp
+  MultiFramedRTPSource.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\MultiFramedRTPSource.cpp(437,52): warning C4244: '+=': conversion from '__int64' to 'unsigned int', possible loss of data
+  OnDemandServerMediaSubsession.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\OnDemandServerMediaSubsession.cpp(184,59): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\OnDemandServerMediaSubsession.cpp(197,82): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\OnDemandServerMediaSubsession.cpp(268,82): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\OnDemandServerMediaSubsession.cpp(270,64): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\OnDemandServerMediaSubsession.cpp(343,24): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  OutputFile.cpp
+  PassiveServerMediaSubsession.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\PassiveServerMediaSubsession.cpp(96,26): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\PassiveServerMediaSubsession.cpp(154,61): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\PassiveServerMediaSubsession.cpp(177,113): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\PassiveServerMediaSubsession.cpp(187,111): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\PassiveServerMediaSubsession.cpp(193,66): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+  ProxyServerMediaSession.cpp
+  QCELPAudioRTPSource.cpp
+  QuickTimeFileSink.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(1224,37): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(2183,30): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(2194,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(2298,71): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  QuickTimeGenericRTPSource.cpp
+  RTCP.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTCP.cpp(39,1): warning C4312: 'type cast': conversion from 'long' to 'char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTCP.cpp(50,1): warning C4312: 'type cast': conversion from 'long' to 'char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTCP.cpp(50,1): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTCP.cpp(56,1): warning C4312: 'type cast': conversion from 'long' to 'char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTCP.cpp(932,47): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  RTPInterface.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTPInterface.cpp(82,47): warning C4312: 'type cast': conversion from 'long' to 'const char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTPInterface.cpp(86,44): warning C4312: 'type cast': conversion from 'long' to 'const char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTPInterface.cpp(93,47): warning C4312: 'type cast': conversion from 'long' to 'const char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTPInterface.cpp(364,63): warning C4312: 'type cast': conversion from 'long' to 'const char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTPInterface.cpp(378,61): warning C4312: 'type cast': conversion from 'long' to 'const char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTPInterface.cpp(387,66): warning C4312: 'type cast': conversion from 'long' to 'const char *' of greater size
+  RTPSink.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTPSink.cpp(136,58): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTPSink.cpp(199,42): warning C4312: 'type cast': conversion from 'long' to 'const char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTPSink.cpp(223,71): warning C4312: 'type cast': conversion from 'long' to 'const char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTPSink.cpp(228,37): warning C4312: 'type cast': conversion from 'long' to 'const char *' of greater size
+  RTPSource.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTPSource.cpp(146,42): warning C4312: 'type cast': conversion from 'long' to 'const char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTPSource.cpp(177,68): warning C4312: 'type cast': conversion from 'long' to 'const char *' of greater size
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTPSource.cpp(182,37): warning C4312: 'type cast': conversion from 'long' to 'const char *' of greater size
+  RTSPClient.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(143,80): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(216,23): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(223,23): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(287,72): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(287,72): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(291,55): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(319,116): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(444,57): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(453,94): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(458,74): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(458,74): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(572,48): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(577,24): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(635,93): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(680,28): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(694,28): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(761,22): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(782,46): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(787,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(789,81): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(789,81): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(869,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(1133,56): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(1147,51): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(1252,40): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(1555,27): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(1582,80): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+  RTSPCommon.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPCommon.cpp(253,56): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPCommon.cpp(253,56): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+  RTSPServer.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPServer.cpp(295,20): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPServer.cpp(408,57): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPServer.cpp(434,46): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPServer.cpp(732,88): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPServer.cpp(833,27): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPServer.cpp(856,94): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPServer.cpp(866,26): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPServer.cpp(1461,58): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPServer.cpp(1461,58): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPServer.cpp(1544,41): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPServer.cpp(1605,47): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPServer.cpp(1688,57): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPServer.cpp(1703,42): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  RTSPServerSupportingHTTPStreaming.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPServerSupportingHTTPStreaming.cpp(143,96): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPServerSupportingHTTPStreaming.cpp(183,82): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPServerSupportingHTTPStreaming.cpp(183,82): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPServerSupportingHTTPStreaming.cpp(188,130): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPServerSupportingHTTPStreaming.cpp(188,130): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPServerSupportingHTTPStreaming.cpp(192,70): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPServerSupportingHTTPStreaming.cpp(192,70): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPServerSupportingHTTPStreaming.cpp(220,24): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\RTSPServerSupportingHTTPStreaming.cpp(237,92): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ServerMediaSession.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\ServerMediaSession.cpp(206,57): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\ServerMediaSession.cpp(214,88): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\ServerMediaSession.cpp(214,88): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\ServerMediaSession.cpp(235,36): warning C4267: '+=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\ServerMediaSession.cpp(274,30): warning C4267: '+=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Compiling...
+  SimpleRTPSink.cpp
+  SimpleRTPSource.cpp
+  SIPClient.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(56,42): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(60,50): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(65,46): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(111,66): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(115,56): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(136,36): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(183,26): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(208,43): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(212,42): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(231,23): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(240,59): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(268,22): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(282,40): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(529,35): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(555,29): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(611,36): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(654,11): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(664,8): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(696,11): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(706,8): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(867,72): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  StreamParser.cpp
+  StreamReplicator.cpp
+  T140TextMatroskaFileServerMediaSubsession.cpp
+  T140TextRTPSink.cpp
+  TCPStreamSink.cpp
+  TextRTPSink.cpp
+  uLawAudioFilter.cpp
+  VideoRTPSink.cpp
+  VorbisAudioMatroskaFileServerMediaSubsession.cpp
+  VorbisAudioRTPSink.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\VorbisAudioRTPSink.cpp(105,65): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  VorbisAudioRTPSource.cpp
+  VP8VideoMatroskaFileServerMediaSubsession.cpp
+  VP8VideoRTPSink.cpp
+  VP8VideoRTPSource.cpp
+  WAVAudioFileServerMediaSubsession.cpp
+  WAVAudioFileSource.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\WAVAudioFileSource.cpp(273,52): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  HashTable.cpp
+  Compiling...
+  strDup.cpp
+  UsageEnvironment.cpp
+  inet.c
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\groupsock\inet.c(18,9): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\groupsock\inet.c(278,53): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\groupsock\inet.c(313,51): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\groupsock\inet.c(344,53): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+  our_md5.c
+  our_md5hl.c
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\liveMedia\our_md5hl.c(52,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  rtcp_from_spec.c
+  live555.vcxproj -> D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\live555-2013.02.11\bin\x64\Release\live555.exe

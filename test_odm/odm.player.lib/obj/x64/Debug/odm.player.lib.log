@@ -1,0 +1,42 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  MetadataCollector.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\ffmpeg-git-a5c1a0c\include\libavutil\common.h(130,27): warning C4244: 'return': conversion from 'int' to 'uint8_t', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\ffmpeg-git-a5c1a0c\include\libavutil\common.h(141,34): warning C4244: 'return': conversion from 'int' to 'int8_t', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\ffmpeg-git-a5c1a0c\include\libavutil\common.h(152,29): warning C4244: 'return': conversion from 'int' to 'uint16_t', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\ffmpeg-git-a5c1a0c\include\libavutil\common.h(163,38): warning C4244: 'return': conversion from 'int' to 'int16_t', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\include\odm.player.lib\VirtualSink.hpp(77,1): warning C4091: 'typedef ': ignored on left of 'onvifmp::VirtualSink::continuePlaying::proxy' when no variable is declared
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\include\odm.player.lib\VirtualSink.hpp(86,63): warning C4100: 'truncatedBytesCount': unreferenced formal parameter
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\MetadataCollector.cpp(26,49): warning C4458: declaration of 'sink' hides class member
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\include\odm.player.lib\MetadataCollector.hpp(27,16): message : see declaration of 'onvifmp::MetadataCollector::sink'
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\MetadataCollector.cpp(42,75): warning C4458: declaration of 'listener' hides class member
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\include\odm.player.lib\MetadataCollector.hpp(26,12): message : see declaration of 'onvifmp::MetadataCollector::listener'
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\MetadataCollector.cpp(46,121): warning C4100: 'duration': unreferenced formal parameter
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\MetadataCollector.cpp(46,94): warning C4100: 'presentationTime': unreferenced formal parameter
+  Live555.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\ffmpeg-git-a5c1a0c\include\libavutil\common.h(130,27): warning C4244: 'return': conversion from 'int' to 'uint8_t', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\ffmpeg-git-a5c1a0c\include\libavutil\common.h(141,34): warning C4244: 'return': conversion from 'int' to 'int8_t', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\ffmpeg-git-a5c1a0c\include\libavutil\common.h(152,29): warning C4244: 'return': conversion from 'int' to 'uint16_t', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\libs\ffmpeg-git-a5c1a0c\include\libavutil\common.h(163,38): warning C4244: 'return': conversion from 'int' to 'int16_t', possible loss of data
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\include\odm.player.lib\VirtualSink.hpp(77,1): warning C4091: 'typedef ': ignored on left of 'onvifmp::VirtualSink::continuePlaying::proxy' when no variable is declared
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\include\odm.player.lib\VirtualSink.hpp(86,63): warning C4100: 'truncatedBytesCount': unreferenced formal parameter
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\include\odm.player.lib\H264VirtualSink.hpp(49,63): warning C4100: 'truncatedBytesCount': unreferenced formal parameter
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\include\odm.player.lib\VideoDecoder.hpp(39,69): warning C4458: declaration of 'avCodec' hides class member
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\include\odm.player.lib\VideoDecoder.hpp(117,12): message : see declaration of 'onvifmp::VideoDecoder::avCodec'
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\include\odm.player.lib\VideoDecoder.hpp(39,26): warning C4100: 'sink': unreferenced formal parameter
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\include\odm.player.lib\VideoDecoder.hpp(135,111): warning C4100: 'duration': unreferenced formal parameter
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\include\odm.player.lib\VideoDecoder.hpp(135,84): warning C4100: 'presentationTime': unreferenced formal parameter
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\include\odm.player.lib\VideoRenderer.hpp(15,1): warning C4100: 'decoder': unreferenced formal parameter
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\Live555.cpp(27,67): warning C4458: declaration of 'videoBuffer' hides class member
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\include\odm.player.lib\Live555.hpp(48,27): message : see declaration of 'onvifmp::Live555::videoBuffer'
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\Live555.cpp(31,79): warning C4458: declaration of 'metadataListener' hides class member
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\include\odm.player.lib\Live555.hpp(49,31): message : see declaration of 'onvifmp::Live555::metadataListener'
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\Live555.cpp(45,68): warning C4311: 'type cast': pointer truncation from 'HANDLE' to 'long'
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\Live555.cpp(45,68): warning C4302: 'type cast': truncation from 'HANDLE' to 'long'
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\Live555.cpp(46,67): warning C4311: 'type cast': pointer truncation from 'HANDLE' to 'long'
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\Live555.cpp(46,67): warning C4302: 'type cast': truncation from 'HANDLE' to 'long'
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\Live555.cpp(47,66): warning C4311: 'type cast': pointer truncation from 'HANDLE' to 'long'
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\Live555.cpp(47,66): warning C4302: 'type cast': truncation from 'HANDLE' to 'long'
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\Live555.cpp(119,69): warning C4100: 'sprops': unreferenced formal parameter
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\Live555.cpp(227,115): warning C4244: 'argument': conversion from 'unsigned int' to 'portNumBits', possible loss of data
+  Generating Code...
+  odm.player.lib.vcxproj -> D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\bin\x64\Debug\odm-player.lib

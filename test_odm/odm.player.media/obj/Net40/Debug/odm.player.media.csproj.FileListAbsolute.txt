@@ -1,0 +1,13 @@
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.media\bin\Debug\Net40\odm.player.media.dll
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.media\bin\Debug\Net40\odm.player.media.pdb
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.media\bin\Debug\Net40\utils.common.dll
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.media\bin\Debug\Net40\utils.diagnostics.dll
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.media\bin\Debug\Net40\utils.linq.dll
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.media\bin\Debug\Net40\utils.common.pdb
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.media\bin\Debug\Net40\utils.diagnostics.pdb
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.media\bin\Debug\Net40\utils.linq.pdb
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.media\obj\Net40\Debug\odm.player.media.csproj.AssemblyReference.cache
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.media\obj\Net40\Debug\odm.player.media.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.media\obj\Net40\Debug\odm.player.media.csproj.CopyComplete
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.media\obj\Net40\Debug\odm.player.media.dll
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.media\obj\Net40\Debug\odm.player.media.pdb

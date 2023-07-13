@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "utils.linq", "utils.linq.csproj", "{65FB2C9F-3A0F-4E3F-ADBD-912BC6F08508}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Net40 = Debug|Net40
+		Debug|Net45 = Debug|Net45
+		Release|Net40 = Release|Net40
+		Release|Net45 = Release|Net45
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65FB2C9F-3A0F-4E3F-ADBD-912BC6F08508}.Debug|Net40.ActiveCfg = Debug|Net40
+		{65FB2C9F-3A0F-4E3F-ADBD-912BC6F08508}.Debug|Net40.Build.0 = Debug|Net40
+		{65FB2C9F-3A0F-4E3F-ADBD-912BC6F08508}.Debug|Net45.ActiveCfg = Debug|Net45
+		{65FB2C9F-3A0F-4E3F-ADBD-912BC6F08508}.Debug|Net45.Build.0 = Debug|Net45
+		{65FB2C9F-3A0F-4E3F-ADBD-912BC6F08508}.Release|Net40.ActiveCfg = Release|Net40
+		{65FB2C9F-3A0F-4E3F-ADBD-912BC6F08508}.Release|Net40.Build.0 = Release|Net40
+		{65FB2C9F-3A0F-4E3F-ADBD-912BC6F08508}.Release|Net45.ActiveCfg = Release|Net45
+		{65FB2C9F-3A0F-4E3F-ADBD-912BC6F08508}.Release|Net45.Build.0 = Release|Net45
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC008874-65BD-484F-AA82-9BD115C21AC1}
+	EndGlobalSection
+EndGlobal

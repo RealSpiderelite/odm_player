@@ -1,0 +1,11 @@
+﻿  Live555.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\include\odm.player.lib\VirtualSink.hpp(77,1): warning C4091: 'typedef ': ignored on left of 'onvifmp::VirtualSink::continuePlaying::proxy' when no variable is declared
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\Live555.cpp(45,68): warning C4311: 'type cast': pointer truncation from 'HANDLE' to 'long'
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\Live555.cpp(45,68): warning C4302: 'type cast': truncation from 'HANDLE' to 'long'
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\Live555.cpp(46,67): warning C4311: 'type cast': pointer truncation from 'HANDLE' to 'long'
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\Live555.cpp(46,67): warning C4302: 'type cast': truncation from 'HANDLE' to 'long'
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\Live555.cpp(47,66): warning C4311: 'type cast': pointer truncation from 'HANDLE' to 'long'
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\Live555.cpp(47,66): warning C4302: 'type cast': truncation from 'HANDLE' to 'long'
+  MetadataCollector.cpp
+D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\include\odm.player.lib\VirtualSink.hpp(77,1): warning C4091: 'typedef ': ignored on left of 'onvifmp::VirtualSink::continuePlaying::proxy' when no variable is declared
+  odm.player.lib.vcxproj -> D:\Projects\Visual Studio Project\MainProject\test3_odm2019\test_odm\odm.player.lib\bin\x64\Release\odm-player.lib

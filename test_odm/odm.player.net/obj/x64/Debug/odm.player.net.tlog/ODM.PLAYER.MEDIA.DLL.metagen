@@ -1,0 +1,101 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly odm.player.media, Version=2.2.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly utils.common, Version=2.2.*, Culture=Invariant Language (Invariant Country): 
+	hash=None, flags=None
+Assembly System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly utils.diagnostics, Version=2.2.*, Culture=Invariant Language (Invariant Country): 
+	hash=None, flags=None
+Interface odm.player.IMetadataReceiver: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract
+  Methods:
+    ProcessMetadata(IntPtr, Int32, Boolean, Int32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+Class odm.player.ActionByRef`1[TArg]: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  Type parameter: TArg
+  :System.MarshalByRefObject
+    Void .ctor(System.Action`1[TArg]): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Invoke(TArg): PrivateScope, Public, HideBySig
+    InitializeLifetimeService(): PrivateScope, Public, Virtual, HideBySig
+Class odm.player.ActionByRef`2[TArg1,TArg2]: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  Type parameter: TArg1
+  Type parameter: TArg2
+  :System.MarshalByRefObject
+    Void .ctor(System.Action`2[TArg1,TArg2]): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Invoke(TArg1, TArg2): PrivateScope, Public, HideBySig
+    InitializeLifetimeService(): PrivateScope, Public, Virtual, HideBySig
+Class odm.player.MetadataFramer: AutoLayout, AnsiClass, Class, Public, Serializable, BeforeFieldInit
+    Void .ctor(System.Action`1[System.IO.Stream]): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    odm.player.IMetadataReceiver
+  Methods:
+    ProcessMetadata(IntPtr, Int32, Boolean, Int32): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+Class odm.player.MappedData: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(IntPtr): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    IntPtr signalPtr : Public, InitOnly
+    IntPtr scan0Ptr : Public, InitOnly
+  Properties:
+    Byte signal 'get set' : 
+  Methods:
+    get_signal(): PrivateScope, Public, HideBySig, SpecialName
+    set_signal(Byte): PrivateScope, Public, HideBySig, SpecialName
+Class odm.player.VideoBuffer: AutoLayout, AnsiClass, Class, Public, Serializable, BeforeFieldInit
+    Void .ctor(Int32, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(Int32, Int32, odm.player.PixFrmt): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(Int32, Int32, odm.player.PixFrmt, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+    System.Runtime.Serialization.IDeserializationCallback
+  Fields:
+    Int32 height : Public, InitOnly
+    odm.player.PixFrmt pixelFormat : Public, InitOnly
+    Int32 stride : Public, InitOnly
+    Int32 width : Public, InitOnly
+    Int32 BUFFER_PADDING_SIZE = 16 : Public, Static, Literal, HasDefault
+    Int32 EXTRA_DATA_SIZE = 16 : Public, Static, Literal, HasDefault
+  Properties:
+    Int32 size 'get ' : 
+  Methods:
+    get_size(): PrivateScope, Public, HideBySig, SpecialName
+    Lock(): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+Class odm.player.MediaStreamInfo: AutoLayout, AnsiClass, Class, Public, Serializable, BeforeFieldInit
+    Void .ctor(System.String, Transport, odm.player.UserNameToken): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String url : Public, InitOnly
+    Transport transport : Public, InitOnly
+    odm.player.UserNameToken userNameToken : Public, InitOnly
+Class odm.player.UserNameToken: AutoLayout, AnsiClass, Class, Public, Serializable, BeforeFieldInit
+    Void .ctor(System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String userName : Public, InitOnly
+    System.String password : Public, InitOnly
+Class odm.player.PixFrmt: AutoLayout, AnsiClass, Class, Public, Serializable
+  Interfaces:
+    System.Runtime.Serialization.ISerializable
+  Fields:
+    odm.player.PixFrmt rgb24 : Public, Static, InitOnly
+    odm.player.PixFrmt bgr24 : Public, Static, InitOnly
+    odm.player.PixFrmt argb32 : Public, Static, InitOnly
+    odm.player.PixFrmt bgra32 : Public, Static, InitOnly
+  Properties:
+    Int32 bitsPerPixel 'get ' : 
+  Methods:
+    get_bitsPerPixel(): PrivateScope, Public, HideBySig, SpecialName
+    ToString(): PrivateScope, Public, Virtual, HideBySig
+    op_Equality(PixFrmt, PixFrmt): PrivateScope, Public, Static, HideBySig, SpecialName
+    op_Inequality(PixFrmt, PixFrmt): PrivateScope, Public, Static, HideBySig, SpecialName
+    Equals(Object): PrivateScope, Public, Virtual, HideBySig
+    GetHashCode(): PrivateScope, Public, Virtual, HideBySig
+    GetObjectData(SerializationInfo, StreamingContext): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+Struct odm.player.MediaStreamInfo+Transport: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, Serializable
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    Transport Udp = 0 : Public, Static, Literal, HasDefault
+    Transport Tcp = 1 : Public, Static, Literal, HasDefault
+    Transport Http = 2 : Public, Static, Literal, HasDefault
